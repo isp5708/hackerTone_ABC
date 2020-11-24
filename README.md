@@ -12,7 +12,7 @@
 
 <li>Making Model: Detect Mask</li>
 <ul>Using MobilNetV2</ul>
-<img width="200" src="https://github.com/isp5708/hackerTone_ABC/readme_img/4.PNG" width="90%"></img>
+<img width="200" src="https://github.com/isp5708/hackerTone_ABC/blob/result/readme_img/4.PNG" width="90%"></img>
 
 <h3>Reference</h3>
 <li>Code:https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning </li>
